@@ -1,0 +1,74 @@
+#velcom_tables_wrapper i{
+	display: block;
+	margin: 20px;
+}
+#velcom_tables_wrapper .velcom_tables_head h2{	
+	font-weight: 	bold;
+}
+#velcom_tables_wrapper .velcom_tables_head{	
+	font-weight: 	bold;
+}
+#velcom_tables_wrapper .velcom_tables_head > div{	
+	padding-left: 110px;
+}
+#velcom_tables_wrapper .velcom_tables_head img{	
+	width: 100px;
+	position: absolute;
+	top: 9px;
+}
+
+#velcom_tables_wrapper table a{	
+	text-decoration: none;
+	color: #333;
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+#velcom_tables_wrapper table {	
+	margin-top: 20px;
+}
+#velcom_tables_wrapper table caption{	
+	background-color: #000;
+	color: #fff;
+	width: 100%;
+	border: 1px solid white;
+	padding: 15px;
+	font-size: 20px;
+}
+#velcom_tables_wrapper table caption span{	
+	font-size: 15px;
+}
+#velcom_tables_wrapper table td{	
+	border: 1px solid #fff;
+}
+#velcom_tables_wrapper table tr.empty{	
+	height: 55px;
+}
+#velcom_tables_wrapper .table-striped>tbody>tr{	
+	background: #e7e7e7;
+}
+#velcom_tables_wrapper .table-striped>tbody>tr:nth-of-type(odd){	
+	background: #cccccc;
+}
+
+
+#footer{
+	padding: 0;
+}
+#footer > div{
+	color: #333;
+	background: #fef14c;
+	padding: 0;
+}
+#footer > div span{
+	float: right;
+	background: #feec00;
+	font-size: 	24px;
+	font-weight: 	bold;
+	padding: 0 20px;
+}
+#footer > span{
+	float: right;
+	font-size: 	10px;
+	padding-right: 	10px;
+}
